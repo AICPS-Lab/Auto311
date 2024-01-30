@@ -1,0 +1,2 @@
+Can you describe the vehicle with details like color, year, and make?
+Is the vehicle occupied?
