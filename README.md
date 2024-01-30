@@ -1,8 +1,8 @@
 # ReadME
 This repo contains essential information about the implementation of Auto311 and instructions for reproduction. All code files are carefully commented on and explained for better readability.
 ## Access to Our Demo Video
-Find the video here: [link](https://www.youtube.com/watch?v=g2gvhK5nkUI)
-Subscribe our YouTube channel for latest updates: [link](https://www.youtube.com/channel/UCAfUvVTJzvaLbd9GwQRvClg)
+Find the video here: [link](https://www.youtube.com/watch?v=g2gvhK5nkUI).
+Subscribe to our YouTube channel for the latest updates: [link](https://www.youtube.com/channel/UCAfUvVTJzvaLbd9GwQRvClg).
 ## Access to Trained Models
 Due to the submission size limit, trained models that appeared in our paper are stored and uploaded to an anonymous Google Drive. Please access using this [link](https://drive.google.com/drive/folders/1h3QK4W-qc5QXwhdjBu0BidZDIBxd33VU?usp=sharing). 
 This shared folder contains the following sub-folders: 
@@ -40,8 +40,8 @@ All relevant scripts can be found under the **train_eval_scripts** folder.
 
 ### System Demonstration
 We highly recommend launching runtimes in a Windows OS. 
-Considering full demonstration requires ALL mentioned packages and models installed and loaded PROPERLY, we also provide demo runtimes (under `/demos` folder). To avoid overflowing RAM, we also recommend component-wise test runs -- `modules/incident_type_prediction.py` & `modules/information_itemization.py`.
-The information we feed to these demo runtimes are testing results on our local machine. Thus running those files bypasss calling heavy models and only showcases our system logic. To run the demo runtimes:
+Considering full demonstration requires ALL mentioned packages and models installed and loaded PROPERLY, we also provide demo runtimes (under the`/demos` folder). To avoid overflowing RAM, we also recommend component-wise test runs -- `modules/incident_type_prediction.py` & `modules/information_itemization.py`.
+The information we feed to these demo runtimes is testing results on our local machine. Thus running those files bypasss calling heavy models and only showcases our system logic. To run the demo runtimes:
 `cp ./demos/demo_[cases].py ./demo_[cases].py && python3 demo_[cases].py`
 
 ## Restricted Data Sharing
