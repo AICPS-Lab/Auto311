@@ -46,4 +46,4 @@ The information we feed to these demo runtimes is testing results on our local m
 
 ## Restricted Data Sharing
 We have signed a non-disclosure agreement (NDA) with the local government, restricting any forms of data sharing. However, we do introduce one data sample from our dataset with private and sensitive information masked in Appendix I.
-Regarding any future dataset access, please contact the local government directly (contact info will be revealed upon paper acceptance).
+Regarding any future dataset access, please contact the local government directly.
