@@ -46,4 +46,4 @@ The information we feed to these demo runtimes is testing results on our local m
 
 ## Restricted Data Sharing
 We have signed a non-disclosure agreement (NDA) with the local government, restricting any forms of data sharing. However, we do introduce one data sample from our dataset with private and sensitive information masked in Appendix I.
-Regarding any future dataset access, please contact the local government [link](https://www.nashville.gov/departments/emergency-communications/quality-assurance-program) directly.
+Regarding any future dataset access, please contact the [local government](https://www.nashville.gov/departments/emergency-communications/quality-assurance-program) directly.
